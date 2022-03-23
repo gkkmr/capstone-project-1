@@ -1,2 +1,2 @@
 # fake_news
-This is my fake news detaction repository..
+This is my fake news detection repository..
